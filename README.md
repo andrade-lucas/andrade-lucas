@@ -1,5 +1,6 @@
 ## Olá, aqui é o Lucas Andrade
 
+- 🎯 Foco em desenvolvimento back-end
 - 🔭 Hoje eu trabalho com back-end em dotnet e nodejs e React para front-end
 - 🌱 Estou aprendendo kubernetes e microservices
 - 💬 Contate-me através do email lucasilva108@gmail.com
