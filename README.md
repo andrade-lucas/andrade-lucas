@@ -1,7 +1,7 @@
 ## Olá Mundo, aqui é o Lucas!
 
 - 🎯 Foco em desenvolvimento back-end
-- 🔭 Hoje eu trabalho com back-end em .NET, PHP, e NodeJS. E React para front-end
+- 🔭 Hoje eu trabalho com back-end em .NET, NodeJS. E React para front-end
 - 🌱 Estou aprendendo kubernetes e microservices
 - 💬 Contate-me através do email lucasilva108@gmail.com
 - 📫 Me encontre no LinkedIn https://www.linkedin.com/in/lucas-andrade-e-silva
